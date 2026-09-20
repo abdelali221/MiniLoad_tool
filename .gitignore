@@ -51,3 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 apps/MLT/boot.dol
+MiniLoad_tool.dol
+build/armboot_bin.h
+/build
+/build
